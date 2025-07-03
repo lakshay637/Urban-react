@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/URBAN-react/static/css/main.d4f99ec3.css",
-    "main.js": "/URBAN-react/static/js/main.8beb5723.js",
-    "static/js/453.37ecffe0.chunk.js": "/URBAN-react/static/js/453.37ecffe0.chunk.js",
-    "index.html": "/URBAN-react/index.html",
-    "main.d4f99ec3.css.map": "/URBAN-react/static/css/main.d4f99ec3.css.map",
-    "main.8beb5723.js.map": "/URBAN-react/static/js/main.8beb5723.js.map",
-    "453.37ecffe0.chunk.js.map": "/URBAN-react/static/js/453.37ecffe0.chunk.js.map"
+    "main.css": "/urban-react/static/css/main.d4f99ec3.css",
+    "main.js": "/urban-react/static/js/main.79f99491.js",
+    "static/js/453.37ecffe0.chunk.js": "/urban-react/static/js/453.37ecffe0.chunk.js",
+    "index.html": "/urban-react/index.html",
+    "main.d4f99ec3.css.map": "/urban-react/static/css/main.d4f99ec3.css.map",
+    "main.79f99491.js.map": "/urban-react/static/js/main.79f99491.js.map",
+    "453.37ecffe0.chunk.js.map": "/urban-react/static/js/453.37ecffe0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f99ec3.css",
-    "static/js/main.8beb5723.js"
+    "static/js/main.79f99491.js"
   ]
 }
