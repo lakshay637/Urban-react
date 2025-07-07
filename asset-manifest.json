@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Urban-react/static/css/main.d4f99ec3.css",
-    "main.js": "/Urban-react/static/js/main.60795d48.js",
+    "main.js": "/Urban-react/static/js/main.43e289ce.js",
     "static/js/453.37ecffe0.chunk.js": "/Urban-react/static/js/453.37ecffe0.chunk.js",
     "index.html": "/Urban-react/index.html",
     "main.d4f99ec3.css.map": "/Urban-react/static/css/main.d4f99ec3.css.map",
-    "main.60795d48.js.map": "/Urban-react/static/js/main.60795d48.js.map",
+    "main.43e289ce.js.map": "/Urban-react/static/js/main.43e289ce.js.map",
     "453.37ecffe0.chunk.js.map": "/Urban-react/static/js/453.37ecffe0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f99ec3.css",
-    "static/js/main.60795d48.js"
+    "static/js/main.43e289ce.js"
   ]
 }
